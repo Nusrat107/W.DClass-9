@@ -1,0 +1,81 @@
+* {
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color:cadetblue;
+}
+.container {
+    width: 450px;
+    height: 450px;
+    background-color: white;
+    margin: auto;
+    margin-top: 60px;
+    /* border: 1px solid black; */
+    border-radius: 20px;
+}
+.title {
+    /* text-align: center; */
+    margin-left: 47px;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   padding-top: 90px;
+    color:black;
+}
+
+.email {
+    height: 45px;
+    width: 350px;
+    padding-left: 10px;
+    display: block;
+    margin: auto;
+    margin-top: 25px;
+    /* border: none; */
+    /* border-bottom */
+    /* outline: auto; */
+}
+
+.password {
+    height: 45px;
+    width: 350px;
+    padding-left: 10px;
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+    /* border-bottom */
+    /* border-style:outset; */
+}
+.btn {
+    /* height: 25px;
+    width: 70px; */
+    padding: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    color:white;
+    background-color:	#e0bc00;
+    border: none;
+    border-radius: 5px;
+    margin-top:10px;
+    margin-left: 50px;
+}
+.ptag {
+    margin-left: 45px;
+    margin-top: 15px;
+    font-size: 20px;
+}
+.rag {
+    margin-left: 70px;
+    margin-top: 20px;
+    font-size: 20px;
+   
+}
+a{
+    color: #e0bc00;
+    text-decoration: none;
+}
+.forgot {
+    color: rgb(15, 15, 15);
+    text-decoration: none;
+}

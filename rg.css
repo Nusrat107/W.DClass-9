@@ -1,0 +1,160 @@
+* {
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color:pink;
+}
+
+.container {
+    width: 550px;
+    height:700px;
+    background-color: white;
+    margin: auto;
+    margin-top: 50px;
+    /* border: 1px solid black; */
+    border-radius: 20px;
+}
+
+.title {
+    /* text-align: center; */
+    margin-left: 47px;
+    font-size: 25px;
+    font-family:Arial, sans-serif;
+   padding-top: 50px;
+    color:black;
+}
+
+.first {
+    height: 30px;
+    width: 220px;
+    padding-left: 20px;
+    display: inline;
+    margin: 47px;
+    margin-top: 25px;
+   
+    /* border: 0.5px; */
+}
+
+.last {
+    height: 30px;
+    width: 220px;
+    padding-left: 20px;
+    display: block;
+    margin-left: 280px;
+    margin-top: -75px;
+
+    /* border: 0.5px; */
+}
+
+.lg {
+    height: 30px;
+    width: 220px;
+    padding-left: 20px;
+    display: inline-block;
+    margin: 47px;
+    margin-top: 10px;
+    
+}
+
+.cy {
+    height: 30px;
+    width: 220px;
+    padding-left: 20px;
+    /* display: block; */
+    /* margin-left: 280px;
+    margin-top: -2000px;
+    border-radius: 4px; */
+    /* border: 0.5px; */
+    margin-left: -38px;
+}
+
+.phn {
+    height: 30px;
+    width: 220px;
+    padding-left: 20px;
+    display: inline;
+    margin: 47px;
+    margin-top: -100px;
+   
+}
+
+.pc {
+    height: 30px;
+    width: 220px;
+    padding-left: 20px;
+    /* display: block; */
+    /* margin-left: 280px;
+    margin-top: -2000px;
+    border-radius: 4px; */
+    /* border: 0.5px; */
+    margin-left: -38px;
+}
+
+.el {
+    height: 30px;
+    width: 220px;
+    padding-left: 20px;
+    display: inline-block;
+    margin: 47px;
+    margin-top: -5000px;
+ 
+}
+
+.rn {
+    height: 30px;
+    width: 220px;
+    padding-left: 20px;
+    margin-left: -38px;
+}
+
+.ep {
+    height: 30px;
+    width: 453px;
+    padding-left: 20px;
+    display: inline-block;
+    margin: 47px;
+    margin-top: -5000px; 
+}
+
+.cb{
+    margin-top:-100px ;
+    margin-left: 45px;
+    font-family: Arial,;
+    font-size: 100px;
+    font-weight: 20;
+}
+
+.tm {
+    margin-top:8px ;
+    margin-left: 110px;
+    font-family: Arial,;
+    font-size: 15px;
+    font-weight: 15;
+}
+
+.btn {
+padding: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    color:white;
+    background-color:	#e0bc00;
+    border: none;
+    border-radius: 5px;
+    margin-top:10px;
+    margin-left: 50px;
+}
+
+.rag {
+    margin-left: 150px;
+    margin-top: 30px;
+    font-size: 20px;
+   
+}
+
+a{
+    color: #e0bc00;
+    text-decoration: none;
+}
